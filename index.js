@@ -22,5 +22,5 @@ module.exports = {
     'no-underscore-dangle': [2, { allowAfterThis: true, allowAfterSuper: false }],
     'object-curly-spacing': 2
   },
-  extends: 'airbnb-base'
+  extends: ['airbnb-base', 'prettier']
 };
