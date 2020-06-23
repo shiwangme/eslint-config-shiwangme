@@ -1,17 +1,17 @@
 {
   "name": "eslint-config-shiwangme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "git@github.com:shiwangme/eslint-config-shiwangme.git",
   "author": "Willin <willin@willin.org>",
   "license": "MIT",
   "dependencies": {
     "eslint-config-airbnb-base": "*",
-    "eslint-config-prettier": "^6.7.0",
+    "eslint-config-prettier": "*",
     "eslint-plugin-import": "*"
   },
   "devDependencies": {
     "eslint": "*",
-    "prettier": "^1.19.1"
+    "prettier": "*"
   }
 }
